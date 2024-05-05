@@ -1,4 +1,4 @@
-name: act7carbajal
+name: capistran0442
 description: A new Flutter project.
 
 version: 1.0.0+1
@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  carousel_slider: ^4.2.1  
+
 
 dev_dependencies:
   flutter_test:
